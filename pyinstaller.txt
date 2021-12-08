@@ -1,0 +1,1 @@
+pyinstaller google_translate_gui.py --onefile --icon=Google-translate-icon.ico
